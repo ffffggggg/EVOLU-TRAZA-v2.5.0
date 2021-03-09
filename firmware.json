@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-https",
-    "version": 1,
+    "version": 3,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/ffffggggg/EVOLU-TRAZA-v2.5.0/main/EVOLU-TRAZAv2.5.1.ino.esp32.bin"
+    "bin": "/ffffggggg/EVOLU-TRAZA-v2.5.0/main/EVOLU-TRAZAv2.5.3.ino.esp32.bin"
 }
